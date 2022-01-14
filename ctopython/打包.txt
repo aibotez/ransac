@@ -1,0 +1,4 @@
+pyi-makespec -D manage.py
+pyinstaller manage.spec
+manage.exe runserver 0.0.0.0:9988 --noreload
+hiddenimports=['celery.fixups.django','celery.fixups','celery.loaders.app','djcelery.picklefield'],

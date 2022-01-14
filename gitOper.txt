@@ -1,0 +1,25 @@
+#使用ssh方式克隆
+1、git clone git@github.com:aibotez/PiHomeShow.git
+如果你已经用https方式克隆了仓库，不必删除仓库重新克隆，只需将当前项目中的 .git/config文件中的
+url = https://gitee.com/Name/project.git
+修改为
+url = git@gitee.com:Name/project.git
+
+2、git add .
+小点的意识是选择所有文件进行上传，不能忽略
+
+3、git commit -m 'my projest push'
+引号内的内容可以随便填写，目的是描述记录每次上的内容是什么
+
+4、git push
+push内容到github上面，如果你的厂库不是新建的，里面以前已经有内容，你再次上传新内容想覆盖，就要在后面加“-f”,代码如下：$ git push -f
+
+5、git pull
+从云端下载
+
+##通过 git init先创造本地仓库
+git init                            //初始化仓库
+git add .                         //添加到本地暂存区   或用  git add   (文件name)
+git remote add origin git@github.com:tt-wedos/fire.git //本地仓库添加了github上的git仓库作为远程仓库，起名origin；
+git pull origin master --allow-unrelated-histories//需要先把云端文件拉下来
+git push origin master:master  // git push <远程主机名> <本地分支名>:<远程分支名>

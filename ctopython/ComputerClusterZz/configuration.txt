@@ -1,0 +1,5 @@
+LocalIp#222.204.48.43:9988
+JoinCauNet#1
+OpenCPUS#100
+ServerIP#222.204.50.110
+ServerPoint#9988

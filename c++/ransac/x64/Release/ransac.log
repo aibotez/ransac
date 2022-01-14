@@ -1,0 +1,37 @@
+﻿  ransac.cpp
+C:\doucment\ransac算法\c++\ransac\tanhFit.h(179,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\tanhFit.h(179,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\tanhFit.h(184,29): warning C4101: “rr”: 未引用的局部变量
+C:\doucment\ransac算法\c++\ransac\tanhFit.h(213,10): warning C4101: “i”: 未引用的局部变量
+C:\doucment\CToolZz\link_matlab\opmat.h(29,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(31,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(60,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(61,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(74,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(74,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(93,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(93,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(94,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\CToolZz\link_matlab\opmat.h(94,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(39,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(39,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(59,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(59,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(147,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(147,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(240,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(240,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(280,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\cut_pro_ransac.h(280,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\doucment\ransac算法\c++\ransac\ransac.cpp(86,9): warning C4101: “a”: 未引用的局部变量
+C:\doucment\ransac算法\c++\ransac\ransac.cpp(115,9): warning C4101: “nped0”: 未引用的局部变量
+C:\doucment\ransac算法\c++\ransac\ransac.cpp(114,10): warning C4101: “fity”: 未引用的局部变量
+C:\doucment\ransac算法\c++\ransac\ransac.cpp(117,9): warning C4101: “maxgrad0”: 未引用的局部变量
+C:\doucment\ransac算法\c++\ransac\ransac.cpp(116,9): warning C4101: “nwidth0”: 未引用的局部变量
+C:\doucment\ransac算法\c++\ransac\ransac.cpp(113,10): warning C4101: “fitx”: 未引用的局部变量
+  正在生成代码
+  0 of 333 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ransac.vcxproj -> C:\doucment\ransac算法\c++\ransac\x64\Release\ransac.exe

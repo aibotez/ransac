@@ -1,0 +1,1 @@
+manage.exe runserver 0.0.0.0:9988 --noreload
